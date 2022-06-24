@@ -17,6 +17,9 @@ Then create the structuring image for dilation/erosion.
 Apply erosion and dilation using cv2.erode and cv2.dilate.
 ### Step5:
 Plot the images using plt.imshow.
+<br>
+<br>
+<br>
  
 ## Program:
 ```python
